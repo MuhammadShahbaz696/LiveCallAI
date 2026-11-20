@@ -1,5 +1,7 @@
 package ai.livecall.app
 
+import okhttp3.MediaType.Companion.toMediaType
+import okhttp3.RequestBody.Companion.toRequestBody
 import okhttp3.*
 import org.json.JSONArray
 import org.json.JSONObject
