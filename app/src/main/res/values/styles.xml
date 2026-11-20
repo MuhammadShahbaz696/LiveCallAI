@@ -1,0 +1,1 @@
+<resources><style name="Theme.LiveCallAI" parent="Theme.Material3.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#6C63FF</item><item name="android:navigationBarColor">#101116</item></style></resources>
